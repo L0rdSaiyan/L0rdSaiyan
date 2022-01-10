@@ -17,7 +17,7 @@
   
     <div>
       <h1>Skills</h1>
-<div>
+</div>
   <hr>
     <img align="center" alt="Lordjv-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <hr>
