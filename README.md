@@ -16,7 +16,8 @@
 </div>
   
    
-      <h1 style=text-align=center>Skills</h1>
+  <br>
+      <h1 style=text-align:center>Skills</h1>
 
   
   <hr>
