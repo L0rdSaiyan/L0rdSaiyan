@@ -17,7 +17,8 @@
   
    
   <br>
-      <h1 style=text-align:center>Skills</h1>
+      
+      <h1 style=text-align:center>Skills 👨‍💻</h1>
 
   
   <hr>
