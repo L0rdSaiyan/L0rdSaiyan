@@ -7,6 +7,8 @@
 </div>
   
   <h1 align="center">👨‍💻 Skills/Learning</h1>
+
+  
   
   <div style="display: inline_block"><br>
     
@@ -24,7 +26,7 @@
   <br>
       
  
-  <hr style="border-color:red;">
+  <hr>
   
   
     
