@@ -15,6 +15,16 @@
   <img align="right" alt="Goku" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/785669534383079454/785669819759984710/giphy_2.gif">
 </div>
   
+    <div>
+      <h1>Skills</h1>
+<div>
+  <hr>
+    <img align="center" alt="Lordjv-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<hr>
+  
+
+
+  
   
   <div> 
   
