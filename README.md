@@ -1,12 +1,15 @@
-### Fala aí 👋
+<h1>Fala aí 👋</h1>
 
 <div align="center">
   <a href="https://github.com/L0rdSaiyan">
     </div>
 
+  <br>
+  
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L0rdSaiyan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdSaiyan&layout=compact&langs_count=7&theme=radical"/>
   
+  <br>
   
   <h1 align="center">👨‍💻 Skills/Learning</h1>
 
