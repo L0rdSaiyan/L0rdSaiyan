@@ -22,6 +22,7 @@
   <img align="center" alt="Lordjv-jupyter" title="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Lordjv-windows10" title="Windows 10" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">  
   <img align="center" alt="Lordjv-github" title="Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="LordJs-git" title="Git" height="40" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Lordjv-python" title="Python" height="40" width="40 src="  <img align="center" alt="Lordjv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="right" alt="Goku" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/785669534383079454/785669819759984710/giphy_2.gif">
  
