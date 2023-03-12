@@ -19,8 +19,10 @@
   <img align="center" alt="Lordjv-CSS" title="CSS 3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lordjv-java" title="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lordjv-Js" title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    
   <img align="center" alt="Lordjv-React" title="React JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Lordjv-windows10" title="Windows 10" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">  
+    <img align="center" alt="Lordjv-Salesforce" title="Salesforce" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
+    <img align="center" alt="Lordjv-windows10" title="Windows 10" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">  
   <img align="center" alt="Lordjv-github" title="Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    <img align="center" alt="Lordjv-github" title="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   
