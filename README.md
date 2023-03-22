@@ -1,4 +1,5 @@
 <h1>Eaí, meu nobre 👋</h1>
+<h2>Meu perfil no Trailblaze : https://trailblazer.me/id/jvictor127</h2>
 
 <div align="center">
   <a href="https://github.com/L0rdSaiyan">
