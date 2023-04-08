@@ -26,6 +26,8 @@
     <img align="center" alt="Lordjv-windows10" title="Windows 10" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">  
   <img align="center" alt="Lordjv-github" title="Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    <img align="center" alt="Lordjv-github" title="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+       <img align="center" alt="Lordjv-github" title="JSON" height="40" width="50" src="https://www.google.com/search?q=json%20logo&tbm=isch&tbs=ic:trans&client=opera-gx&hs=zEv&hl=pt-BR&sa=X&ved=0CAMQpwVqFwoTCOiD18jemv4CFQAAAAAdAAAAABAL&biw=1455&bih=707#imgrc=7ARqv5w4K44wDM">
+
   
     
   <img align="center" alt="LordJs-git" title="Git" height="40" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
