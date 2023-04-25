@@ -31,7 +31,19 @@
   
     
   <img align="center" alt="LordJs-git" title="Git" height="40" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-     <img align="right" alt="Goku" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/785669534383079454/785669819759984710/giphy_2.gif">
+     
+    <br>
+
+    <h1 align="center">Contact</h1>
+
+      <div style="display: inline_block"><br>
+        
+        <img align="center" alt="JoaoVictor-Gmail" title="Gmail" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
+        
+    </div>
+
+    
+    <img align="right" alt="Goku" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/785669534383079454/785669819759984710/giphy_2.gif">
  
 </div> 
  
