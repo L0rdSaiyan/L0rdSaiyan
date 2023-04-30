@@ -30,16 +30,19 @@
 
   
     
-  <img align="center" alt="LordJs-git" title="Git" height="40" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="LordJs-git" title="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 
     
-    <img align="right" alt="Goku" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/785669534383079454/785669819759984710/giphy_2.gif">
  
 </div> 
  
        
  
   <hr>  
+
+  <br>
+    <img align="right" height="150" style="border-radius: 150" src="https://cdn.discordapp.com/attachments/785669534383079454/785669819759984710/giphy_2.gif">
+
   
   <div> 
   
