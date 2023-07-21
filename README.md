@@ -1,5 +1,7 @@
 <h1>Eaí, meu nobre 👋</h1>
 <h2>Perfil Trailblaze : https://trailblazer.me/id/jvictor127</h2>
+<h2>Perfil LinkedIn : www.linkedin.com/in/joão-victor-sales-teixeira-3a956b276 </h2>
+
 
 <div align="center">
   <a href="https://github.com/L0rdSaiyan">
