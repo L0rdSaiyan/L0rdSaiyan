@@ -13,8 +13,8 @@
   <br>
   
   <h1 align="center">
-  <img align="center" width="50" height="50" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952drj4te578pqpqswqsfc6vkwxx8yd2a5mmat1a0ov&ep=v1_gifs_search&rid=200w.gif&ct=g">
     Skills
+      <img align="center" width="50" height="50" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952drj4te578pqpqswqsfc6vkwxx8yd2a5mmat1a0ov&ep=v1_gifs_search&rid=200w.gif&ct=g">
   </h1>
 
     
