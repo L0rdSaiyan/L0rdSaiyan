@@ -1,4 +1,6 @@
-<h1>Eaí, meu nobre 👋</h1>
+<h1>Eaí, meu nobre 👋
+  <img height="80" src="https://media0.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif?cid=6c09b952p7utxr0j5tnta4785f358yddbe2lvh3kphoebxqe&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+  </h1>
 <h2>Perfil Trailblaze : https://trailblazer.me/id/jvictor127</h2>
 
 <div align="center">
@@ -10,7 +12,10 @@
     
   <br>
   
-  <h1 align="center">👨‍💻 Skills</h1>
+  <h1 align="center">
+  <img align="center" width="50" height="50" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952drj4te578pqpqswqsfc6vkwxx8yd2a5mmat1a0ov&ep=v1_gifs_search&rid=200w.gif&ct=g">
+    Skills
+  </h1>
 
     
 <p align="center">
@@ -60,6 +65,3 @@
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-sales-teixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin" ></a>
 
 </p>
-
-
-![snake gif](https://github.com/L0rdSaiyan/L0rdSaiyan/blob/output/github-contribution-grid-snake.svg)
