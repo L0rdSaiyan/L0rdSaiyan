@@ -49,3 +49,7 @@
     &nbsp;&nbsp;&nbsp;
     <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="vikt0r1932" ></a>
 </p>
+
+
+![snake gif](https://github.com/L0rdSaiyan/L0rdSaiyan/blob/output/github-contribution-grid-snake-dark.svg)
+
