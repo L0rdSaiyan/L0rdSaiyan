@@ -10,7 +10,7 @@
     
   <br>
   
-  <h1 align="center">👨‍💻 Skills/Learning</h1>
+  <h1 align="center">👨‍💻 Skills</h1>
 
     
 <p align="center">
