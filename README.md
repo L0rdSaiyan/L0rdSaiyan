@@ -14,7 +14,10 @@
 
     
 <p align="center">
-    
+        <img align="left" height="150" src="https://media.tenor.com/7VHYjSRCq_AAAAAj/goku.gif">
+        <img align="right" height="150" src="https://media.tenor.com/7VHYjSRCq_AAAAAj/goku.gif">
+
+
   <img align="center" alt="Lordjv-HTML" title="HTML 5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lordjv-CSS" title="CSS 3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lordjv-java" title="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -45,8 +48,6 @@
   <hr>
 
   <br>
-    <img align="right" height="150" style="border-radius: 150" src="https://cdn.discordapp.com/attachments/785669534383079454/785669819759984710/giphy_2.gif">
-
   <div> 
   
  
@@ -62,4 +63,3 @@
 
 
 ![snake gif](https://github.com/L0rdSaiyan/L0rdSaiyan/blob/output/github-contribution-grid-snake.svg)
-
