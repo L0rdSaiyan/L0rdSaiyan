@@ -51,5 +51,6 @@
 </p>
 
 
-![snake gif](https://github.com/L0rdSaiyan/L0rdSaiyan/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/L0rdSaiyan/L0rdSaiyan/blob/output/github-contribution-grid-snake.svg)
+
 
