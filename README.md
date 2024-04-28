@@ -55,7 +55,6 @@
 <h1 align="center">☎️ Contact:</h1>
 <p align="center">
     <a href=""><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" title="joaovictors193203@gmail.com"></a>
-    &nbsp;&nbsp;&nbsp;
     <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="vikt0r1932" ></a>
     <a href="www.linkedin.com/in/joão-victor-sales-teixeira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="vikt0r1932" ></a>
 
