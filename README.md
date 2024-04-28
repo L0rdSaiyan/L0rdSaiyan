@@ -31,7 +31,9 @@
     <img align="center" alt="Lordjv-sequelize" title="Sequelize" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg">
     <img align="center" alt="Lordjv-mongodb" title="MongoDb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="Lordjv-nodejs" title="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-      <img align="center" alt="Lordjv-handlebars" title="Hbnadlebars" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
+    <img align="center" alt="Lordjv-handlebars" title="Handlebars" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
+    <img align="center" alt="Lordjv-npm" title="NPM" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+
 
 
   <img align="center" alt="LordJs-git" title="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
