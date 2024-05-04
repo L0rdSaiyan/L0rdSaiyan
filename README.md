@@ -38,6 +38,7 @@
     <br>
     <img align="center" alt="Lordjv-express" title="Express JS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
     <img align="center" alt="Lordjv-sequelize" title="Sequelize" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg">
+    <img align="center" alt="Lordjv-sequelize" title="React-Router" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg">
     <img align="center" alt="Lordjv-mongodb" title="MongoDb" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="Lordjv-nodejs" title="NodeJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Lordjv-handlebars" title="Handlebars" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
