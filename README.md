@@ -27,6 +27,7 @@
   <img align="center" alt="Lordjv-CSS" title="CSS 3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lordjv-java" title="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lordjv-Js" title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lordjv-TS" title="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
   <img align="center" alt="Lordjv-React" title="React JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Lordjv-React-Native" title="React Native" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
