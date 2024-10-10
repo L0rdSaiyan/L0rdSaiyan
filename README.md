@@ -54,7 +54,9 @@
   <img align="center" alt="LordJs-git" title="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </p>
 
- 
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=JennieOliveira99&theme=tokyonight" alt="GitHub Trophy">
+</p>
        
  
   <hr>
