@@ -1,6 +1,8 @@
-<h1>Hello World! 👋
-  <img height="80" src="https://media0.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif?cid=6c09b952p7utxr0j5tnta4785f358yddbe2lvh3kphoebxqe&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
-  </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=+Hello+World!+,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+
 <h2>Perfil Trailblaze : https://trailblazer.me/id/jvictor127</h2>
 
 <div align="center">
@@ -13,6 +15,7 @@
   <br>
   
   <h1 align="center">
+      <img height="80" src="https://media0.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif?cid=6c09b952p7utxr0j5tnta4785f358yddbe2lvh3kphoebxqe&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
     Skills
       <img align="center" width="50" height="50" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952drj4te578pqpqswqsfc6vkwxx8yd2a5mmat1a0ov&ep=v1_gifs_search&rid=200w.gif&ct=g">
   </h1>
@@ -69,3 +72,4 @@
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-sales-teixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin" ></a>
 
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=footer"/>
