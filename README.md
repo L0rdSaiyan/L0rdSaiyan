@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=+Hello+World!+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
-<h2>Perfil Trailblaze : https://trailblazer.me/id/jvictor127</h2>
-
 <div align="center">
   <a href="https://github.com/L0rdSaiyan">
    
@@ -48,12 +46,8 @@
     <img align="center" alt="Lordjv-nodejs" title="NodeJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Lordjv-handlebars" title="Handlebars" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
     <img align="center" alt="Lordjv-npm" title="NPM" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-
-
-
-  <img align="center" alt="LordJs-git" title="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="LordJs-git" title="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </p>
-
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=JennieOliveira99&theme=tokyonight" alt="GitHub Trophy">
 </p>
