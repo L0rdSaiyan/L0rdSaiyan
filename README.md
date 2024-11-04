@@ -69,6 +69,4 @@
 
 </p>
 
-<img src="https://raw.githubusercontent.com/L0rdSaiyan/L0rdSaiyan/output/snake.svg" alt="Snake animation" />
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=footer"/>
