@@ -32,6 +32,7 @@
   <img align="center" alt="Lordjv-TS" title="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Lordjv-Next" title="Next JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Lordjv-Next" title="FastAPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="Fabric" title="Git" height="40" width="50" src="https://avatars.githubusercontent.com/u/21025855?s=280&v=4">
 
   <img align="center" alt="Lordjv-React" title="React JS" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Lordjv-React-Native" title="React Native" height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
