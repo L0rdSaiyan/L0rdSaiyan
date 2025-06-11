@@ -71,4 +71,10 @@
 
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L0rdSaiyan/L0rdSaiyan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L0rdSaiyan/L0rdSaiyan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/c3csoftware/L0rdSaiyan/output/pacman-contribution-graph.svg">
+</picture>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=footer"/>
